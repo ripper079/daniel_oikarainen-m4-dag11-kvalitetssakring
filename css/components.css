@@ -18,6 +18,7 @@ footer a {
   text-decoration: none;
   font: inherit;
   cursor: pointer;
+  margin-bottom: var(--space-1);
 }
 
 .knapp:hover {
